@@ -1,0 +1,20 @@
+[[troubleshooting]]
+== Troubleshooting
+
+// * <<debugging>>
+// * <<deprecation-warnings>>
+
+.Exceptions
+
+* <<missing-required-property>>
+* <<serialize-without-typed-keys>>
+
+
+// [[debugging]]
+// === Debugging
+
+//[[deprecation-warnings]]
+// === Elasticsearch deprecation warnings
+
+include::missing-required-property.asciidoc[]
+include::serialize-without-typed-keys.asciidoc[]
